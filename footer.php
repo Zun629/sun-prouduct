@@ -5,6 +5,7 @@
                 <a href="#facebook" class="text-white mx-2">Facebook</a>
                 <a href="#twitter" class="text-white mx-2">Twitter</a>
                 <a href="#instagram" class="text-white mx-2">Instagram</a>
+                <a href="#Home" class="text-white mx-2">Home</a>
             </div>
         </div>
     </footer>
